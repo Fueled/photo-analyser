@@ -13,9 +13,14 @@ struct HomeView: View {
     var body: some View {
 		NavigationStack {
 			List {
-				ForEach(0..<10, id: \.self) {
-					Text("\($0)")
+				ForEach(viewModel.photos, id: \.self) { urlString in
+					AsyncImage(url: URL(string: urlString)!)
+						.frame(width: 80, height: 80)
 				}
+
+//				ForEach(0..<40, id:\.self) {
+//					Text("\($0)")
+//				}
 			}
 			#if !SKIP
 			.actionSheet(isPresented: $viewModel.isPickerActionSheetPresented) {
@@ -55,17 +60,17 @@ struct HomeView: View {
 					}
 				}
 			}
-			#if SKIP
-			.overlay {
-				if viewModel.isPickerActionSheetPresented {
-//					ComposeView { _ in
-//						androidx.compose.ModalBottomSheet(onDismissRequest = { /* Executed when the sheet is dismissed */ }) {
-//							// Sheet content
-//						}
-//					}
-				}
-			}
-			#endif
+//			#if SKIP
+//			.overlay {
+//				if viewModel.isPickerActionSheetPresented {
+////					ComposeView { _ in
+////						androidx.compose.ModalBottomSheet(onDismissRequest = { /* Executed when the sheet is dismissed */ }) {
+////							// Sheet content
+////						}
+////					}
+//				}
+//			}
+//			#endif
 		}
     }
 }
