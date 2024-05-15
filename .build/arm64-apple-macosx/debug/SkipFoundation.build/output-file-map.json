@@ -1,0 +1,329 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/master.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/AttributedString.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/AttributedString.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/AttributedString.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/AttributedString~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/AttributedString.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Bundle.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Bundle.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Bundle.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Bundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Bundle.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Calendar.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Calendar.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Calendar.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Calendar~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Calendar.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/CharacterSet.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/CharacterSet.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/CharacterSet.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/CharacterSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/CharacterSet.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/ComparisonResult.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ComparisonResult.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ComparisonResult.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ComparisonResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ComparisonResult.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Data.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Data.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Data.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Data~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Data.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Date.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Date.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Date.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Date.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/DateComponents.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateComponents.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateComponents.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateComponents.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/DateFormatter.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateFormatter.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateFormatter.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateFormatter.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/DateInterval.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateInterval.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateInterval.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateInterval~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateInterval.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/DateIntervalFormatter.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateIntervalFormatter.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateIntervalFormatter.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateIntervalFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DateIntervalFormatter.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Digest.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Digest.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Digest.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Digest~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Digest.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Dispatch.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Dispatch.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Dispatch.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Dispatch~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Dispatch.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/FileManager.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/FileManager.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/FileManager.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/FileManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/FileManager.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Formatter.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Formatter.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Formatter.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Formatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Formatter.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/HTTPURLResponse.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/HTTPURLResponse.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/HTTPURLResponse.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/HTTPURLResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/HTTPURLResponse.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/ISO8601DateFormatter.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ISO8601DateFormatter.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ISO8601DateFormatter.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ISO8601DateFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ISO8601DateFormatter.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/IndexPath.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexPath.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexPath.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexPath~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexPath.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/IndexSet.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexSet.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexSet.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexSet~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/IndexSet.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/JSONDecoder.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONDecoder.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONDecoder.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONDecoder.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/JSONEncoder.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONEncoder.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONEncoder.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONEncoder.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/JSONSerialization+Parser.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization+Parser.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization+Parser.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization+Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization+Parser.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/JSONSerialization.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/JSONSerialization.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Locale.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Locale.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Locale.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Locale~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Locale.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/LocalizedStringResource.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/LocalizedStringResource.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/LocalizedStringResource.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/LocalizedStringResource~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/LocalizedStringResource.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Logger.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Logger.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Logger.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Logger.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/NSError.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSError.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSError.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSError~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSError.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/NSLock.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSLock.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSLock.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NSLock.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/NotificationCenter.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NotificationCenter.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NotificationCenter.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NotificationCenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NotificationCenter.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Number.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Number.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Number.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Number~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Number.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/NumberFormatter.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NumberFormatter.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NumberFormatter.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NumberFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/NumberFormatter.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/OSAllocatedUnfairLock.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OSAllocatedUnfairLock.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OSAllocatedUnfairLock.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OSAllocatedUnfairLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OSAllocatedUnfairLock.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/OperationQueue.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OperationQueue.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OperationQueue.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OperationQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/OperationQueue.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/ProcessInfo.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ProcessInfo.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ProcessInfo.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ProcessInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/ProcessInfo.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/PropertyListSerialization.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/PropertyListSerialization.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/PropertyListSerialization.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/PropertyListSerialization~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/PropertyListSerialization.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Scanner.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Scanner.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Scanner.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Scanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Scanner.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/SkipFoundation.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/SkipFoundation.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/SkipFoundation.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/SkipFoundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/SkipFoundation.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/String.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/String.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/String.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/String.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/StringEncoding.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringEncoding.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringEncoding.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringEncoding~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringEncoding.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/StringLocalizationValue.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringLocalizationValue.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringLocalizationValue.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringLocalizationValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/StringLocalizationValue.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/TimeZone.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/TimeZone.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/TimeZone.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/TimeZone~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/TimeZone.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Timer.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Timer.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Timer.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Timer~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Timer.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/URL.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URL.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URL.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URL~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URL.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/URLComponents.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLComponents.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLComponents.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLComponents~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLComponents.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/URLRequest.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLRequest.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLRequest.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLRequest.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/URLResponse.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLResponse.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLResponse.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLResponse.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/URLSession.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSession.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSession.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSession~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSession.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/URLSessionConfiguration.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionConfiguration.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionConfiguration.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionConfiguration.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/URLSessionTask.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionTask.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionTask.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionTask~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/URLSessionTask.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/UUID.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UUID.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UUID.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UUID~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UUID.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/Unicode.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Unicode.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Unicode.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Unicode~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/Unicode.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/UserDefaults.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UserDefaults.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UserDefaults.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UserDefaults~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/UserDefaults.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-foundation/Sources/SkipFoundation/XMLParser.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/XMLParser.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/XMLParser.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/XMLParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/XMLParser.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/resource_bundle_accessor.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/resource_bundle_accessor.swiftdeps"
+  }
+}

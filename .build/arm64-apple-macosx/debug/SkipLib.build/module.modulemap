@@ -1,0 +1,4 @@
+module SkipLib {
+    header "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipLib.build/SkipLib-Swift.h"
+    requires objc
+}

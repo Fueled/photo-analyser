@@ -1,0 +1,4 @@
+module SkipUI {
+    header "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipUI.build/SkipUI-Swift.h"
+    requires objc
+}

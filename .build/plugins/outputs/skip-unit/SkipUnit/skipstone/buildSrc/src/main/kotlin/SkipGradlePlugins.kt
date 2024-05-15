@@ -1,0 +1,1 @@
+/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-unit/Sources/SkipUnit/Skip/buildSrc/src/main/kotlin/SkipGradlePlugins.kt

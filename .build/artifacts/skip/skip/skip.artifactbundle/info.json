@@ -1,0 +1,15 @@
+{
+    "schemaVersion": "1.0",
+    "artifacts": {
+        "skip": {
+            "type": "executable",
+            "version": "0.8.42",
+            "variants": [
+                {
+                    "path": "macos/skip",
+                    "supportedTriples": ["x86_64-apple-macosx", "arm64-apple-macosx"]
+                },
+            ]
+        }
+    }
+}

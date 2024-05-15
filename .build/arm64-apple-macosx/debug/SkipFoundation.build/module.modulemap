@@ -1,0 +1,4 @@
+module SkipFoundation {
+    header "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipFoundation.build/SkipFoundation-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module SkipModel {
+    header "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipModel.build/SkipModel-Swift.h"
+    requires objc
+}

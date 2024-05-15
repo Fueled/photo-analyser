@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/master.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/Tests/PhotoAnalyserTests/PhotoAnalyserTests.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/PhotoAnalyserTests.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/PhotoAnalyserTests.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/PhotoAnalyserTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/PhotoAnalyserTests.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/Tests/PhotoAnalyserTests/XCSkipTests.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/XCSkipTests.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/XCSkipTests.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/XCSkipTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/XCSkipTests.swiftdeps"
+  },
+  "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/resource_bundle_accessor.d",
+    "object": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyserTests.build/resource_bundle_accessor.swiftdeps"
+  }
+}

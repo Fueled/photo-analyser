@@ -1,0 +1,4 @@
+module SkipDrive {
+    header "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipDrive.build/SkipDrive-Swift.h"
+    requires objc
+}
