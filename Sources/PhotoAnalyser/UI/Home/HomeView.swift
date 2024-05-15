@@ -14,13 +14,16 @@ struct HomeView: View {
 		NavigationStack {
 			List {
 				ForEach(viewModel.photos, id: \.self) { urlString in
-					AsyncImage(url: URL(string: urlString)!)
-						.frame(width: 80, height: 80)
+					AsyncImage(url: URL(string: urlString)! ){ result in
+						result.image?
+							.resizable()
+							.scaledToFill()
+					}
+					.frame(maxWidth: .infinity, minHeight: 200, maxHeight: 200)
+					#if !SKIP
+					.listRowInsets(EdgeInsets())
+					#endif
 				}
-
-//				ForEach(0..<40, id:\.self) {
-//					Text("\($0)")
-//				}
 			}
 			#if !SKIP
 			.actionSheet(isPresented: $viewModel.isPickerActionSheetPresented) {
