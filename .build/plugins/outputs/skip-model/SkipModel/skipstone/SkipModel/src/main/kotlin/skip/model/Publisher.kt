@@ -1,1 +1,0 @@
-/Users/hadi/Documents/Fueled/photo-analyser/.build/checkouts/skip-model/Sources/SkipModel/Skip/Publisher.kt

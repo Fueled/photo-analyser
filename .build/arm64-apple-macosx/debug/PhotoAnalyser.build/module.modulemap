@@ -1,4 +1,0 @@
-module PhotoAnalyser {
-    header "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/PhotoAnalyser.build/PhotoAnalyser-Swift.h"
-    requires objc
-}

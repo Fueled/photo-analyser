@@ -1,4 +1,0 @@
-module SkipTest {
-    header "/Users/hadi/Documents/Fueled/photo-analyser/.build/arm64-apple-macosx/debug/SkipTest.build/SkipTest-Swift.h"
-    requires objc
-}
