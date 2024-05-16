@@ -7,6 +7,12 @@
 
 import SwiftUI
 
+//#if SKIP
+//import androidx.activity.compose.rememberLauncherForActivityResult
+//import androidx.activity.result.contract.ActivityResultContracts
+//import androidx.compose.runtime.remember
+//#endif
+
 final class HomeViewModel: ObservableObject {
 	@Published var isPickerActionSheetPresented = false
 	@Published var photos = [
@@ -28,11 +34,25 @@ final class HomeViewModel: ObservableObject {
 		isPickerActionSheetPresented = true
 	}
 
-	func chooseFromLibraryActionTapped() {
+	func onDelete(_ indexSet: IndexSet) {
+		photos.remove(atOffsets: indexSet)
+	}
+
+	func chooseFromLibraryActionButtonTapped() {
 
 	}
 
-	func openCameraTapped() {
-
+	func openCameraActionButtonTapped() {
+//		#if SKIP
+//		let takePicture = rememberLauncherForActivityResult(ActivityResultContracts.TakePicture()) { isSuccess in
+//			if isSuccess {
+//				// The image was successfully captured
+//			} else {
+//				// The image capture failed
+//			}
+//		}
+//		takePicture.launch(nil)
+//		#else
+//		#endif
 	}
 }

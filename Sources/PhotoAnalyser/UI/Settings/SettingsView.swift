@@ -11,7 +11,7 @@ struct SettingsView: View {
 	@ObservedObject var viewModel: SettingsViewModel
 
     var body: some View {
-        Text("Settings")
+		OnMoveDeleteListPlayground()
     }
 }
 

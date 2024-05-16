@@ -1,6 +1,18 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "" : {
+
+    },
+    ".onDelete" : {
+
+    },
+    ".onMove" : {
+
+    },
+    ".onMove, .onDelete" : {
+
+    },
     "Appearance" : {
       "localizations" : {
         "es" : {
@@ -29,7 +41,7 @@
         }
       }
     },
-    "Choose from library" : {
+    "Choose Photo Library" : {
 
     },
     "Dark" : {

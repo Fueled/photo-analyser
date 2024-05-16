@@ -24,29 +24,22 @@ struct HomeView: View {
 					.listRowInsets(EdgeInsets())
 					#endif
 				}
+				.onDelete { indexSet in
+					viewModel.onDelete(indexSet)
+				}
 			}
-			#if !SKIP
-			.actionSheet(isPresented: $viewModel.isPickerActionSheetPresented) {
-				ActionSheet(
-					title: Text("Import your image"),
-					buttons: [
-						.default(
-							Text("Choose from library"),
-							action: {
-								viewModel.chooseFromLibraryActionTapped()
-							}
-						),
-						.default(
-							Text("Open Camera"),
-							action: {
-								viewModel.openCameraTapped()
-							}
-						),
-						.cancel(),
-					]
-				)
+			.confirmationDialog("", isPresented: $viewModel.isPickerActionSheetPresented) {
+				Button {
+					viewModel.openCameraActionButtonTapped()
+				} label: {
+					Text("Open Camera")
+				}
+				Button("Choose Photo Library") {
+					viewModel.chooseFromLibraryActionButtonTapped()
+				}
+			} message: {
+				Text("Import your image")
 			}
-			#endif
 			.toolbar {
 				ToolbarItem(placement: .principal) {
 					Text("Home")
@@ -63,17 +56,6 @@ struct HomeView: View {
 					}
 				}
 			}
-//			#if SKIP
-//			.overlay {
-//				if viewModel.isPickerActionSheetPresented {
-////					ComposeView { _ in
-////						androidx.compose.ModalBottomSheet(onDismissRequest = { /* Executed when the sheet is dismissed */ }) {
-////							// Sheet content
-////						}
-////					}
-//				}
-//			}
-//			#endif
 		}
     }
 }
